@@ -1,1 +1,1 @@
-print "Yo, Brooklyn, how you doin?"
+print "Greetings, Universe!"
